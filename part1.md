@@ -6,7 +6,9 @@ Chào các bạn =))))
 Những ngày vừa rồi các bạn đã tham gia J2TEAM CTF chưa??? có khúc mắc gì không nàooo?? Nếu có thì ngồi xuống và xem Writeup của chúng mình để được khai sang ngay nhé :3
 
 BẮT ĐẦU NÀOOO!!!!!
+
 ![](image/1.png)
+
 ###### giao diện khởi động J2TEAM CTF
 
 ## Nhiệm vụ 1:
